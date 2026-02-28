@@ -98,6 +98,8 @@ These charts help analyze historical trends and compare outlet-level performance
 - Ratings provide insight into product and outlet quality perception  
 
 ---
+## Project Dashboard
+![Dashboard](Dashboard_Analysis_Screenshot.jpg)
 
 ## 🛠 Tools & Skills Used
 
