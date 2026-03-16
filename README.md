@@ -137,5 +137,12 @@ This dashboard enables stakeholders to:
 Excel | Power BI | SQL | Data Visualization  
 
 ---
+Portfolio :- 
+---
+Linkedln :- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github :- https://github.com/AtharvaWaikar
+---
+
 
 ⭐ If you found this project helpful, consider giving it a star!
